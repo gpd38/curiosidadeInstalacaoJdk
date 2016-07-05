@@ -1,3 +1,5 @@
+# Projeto01: Instalação, configuração e execução do JDK em um computador windows
+
 Instalando e configurando o JDK no computador windows para desenvolver e executar programas em java.
 
 O JDK (Java Development Kit) é o ambiente necessário para desenvolver aplicativos em Java e já possui uma cópia do JRE. Para executar uma aplicação em um cliente só é necessário o JRE instalado, pois o JRE (Java Runtime Envirorment) é o ambiente de execução do Java.
@@ -32,19 +34,20 @@ Acesse o site da oracle e faça o download da versão do [jdk](http://www.oracle
 
 ## Testando o JDK
 
-		Teste 1: Prompt de comando
+	* Teste 1: Prompt de comando
 
-				1 Pressione as teclas WINDOWS + R;
-				2 Digite CMD e clique em ok;
-				3 Digite java -version;
-				4 Se estiver tudo configurado corretamente deve ser exibida a seguinte mensagem;
+		1 Pressione as teclas WINDOWS + R;
+		2 Digite CMD e clique em ok;
+		3 Digite java -version;
+		4 Se estiver tudo configurado corretamente deve ser exibida a seguinte mensagem;
+
 ```txt
 java version "1.8.0_92"
 Java(TM) SE Runtime Environment (build 1.8.0_92-b14)
 Java HotSpot(TM) 64-Bit Server VM (build 25.92-b14, mixed mode)
 ```
 
-		Teste 2: Código Java
+	* Teste 2: Código Java
 
 		01 Abra o bloco de notas e digite o código abaixo;
 ```Java
