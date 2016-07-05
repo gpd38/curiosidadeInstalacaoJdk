@@ -32,20 +32,19 @@ Acesse o site da oracle e faça o download da versão do [jdk](http://www.oracle
 
 ## Testando o JDK
 
-	* Teste 1: Prompt de comando
+		Teste 1: Prompt de comando
 
-		1 Pressione as teclas WINDOWS + R;
-		2 Digite CMD e clique em ok;
-		3 Digite java -version;
-		4 Se estiver tudo configurado corretamente deve ser exibida a seguinte mensagem;
-
+				1 Pressione as teclas WINDOWS + R;
+				2 Digite CMD e clique em ok;
+				3 Digite java -version;
+				4 Se estiver tudo configurado corretamente deve ser exibida a seguinte mensagem;
 ```txt
 java version "1.8.0_92"
 Java(TM) SE Runtime Environment (build 1.8.0_92-b14)
 Java HotSpot(TM) 64-Bit Server VM (build 25.92-b14, mixed mode)
 ```
 
-	* Teste 2: Código Java
+		Teste 2: Código Java
 
 		01 Abra o bloco de notas e digite o código abaixo;
 ```Java
