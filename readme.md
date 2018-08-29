@@ -1,4 +1,4 @@
-# Projeto01: Instalação, configuração e execução do JDK em um computador windows
+# Instalação, configuração e execução do JDK em um computador windows
 
 Instalando e configurando o JDK no computador windows para desenvolver e executar programas em java.
 
